@@ -1,2 +1,2 @@
 # Velha
-Game of Velha, the BR game
+game from velha (hash), the BR game
